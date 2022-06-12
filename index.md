@@ -4,7 +4,7 @@
 
 # GitHub Links:
 - [Chrome Extension](https://github.com/OfficiallyLukeHemmings/hltvPredictorExtension)
-- [(Google App Engine) API](https://github.com/OfficiallyLukeHemmings/hltv_predictor_api)
+- [API (Google App Engine)](https://github.com/OfficiallyLukeHemmings/hltv_predictor_api)
 
 ### Markdown
 
