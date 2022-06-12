@@ -1,8 +1,11 @@
-## HLTV Enjoyability Predictor Extension
+# HLTV Enjoyability Predictor Extension
+### Bournemouth University Final Year Project Artefact
+### By Luke Hemmings
 
-# Introduction
+## Introduction
 
-# GitHub Links:
+
+## GitHub Links:
 - [Chrome Extension](https://github.com/OfficiallyLukeHemmings/hltvPredictorExtension)
 - [API (Google App Engine)](https://github.com/OfficiallyLukeHemmings/hltv_predictor_api)
 
