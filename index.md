@@ -1,5 +1,5 @@
 # HLTV Enjoyability Predictor Extension
-A Bournemouth University Final Year Project Artefact By Luke Hemmings
+A Bournemouth University Final Year Project Artefact by Luke Hemmings
 
 ## Introduction
 
