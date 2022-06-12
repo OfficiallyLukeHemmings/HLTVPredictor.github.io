@@ -22,14 +22,14 @@ learning-based system for predicting enjoyability for upcoming games of the espo
 title.
 
 Predicting esports enjoyment appears to be a new field of research which this project
-explores. Given the lack of existing solutions CRISP-DM and ‘Rapid Application
+explores. Given the lack of existing solutions, CRISP-DM and ‘Rapid Application
 Development’ were successfully employed to create a Google Chrome extension and
 supporting cloud deployed machine learning REST API. Multiple machine learning
 techniques were employed to select and refine the machine learning algorithm
 implemented, with the final model reaching 75.1% accuracy based on anticipated
 enjoyability ratings gathered through a preliminary questionnaire. The developed
-system was user tested over a period of ten days during which feedback confirmed high
-levels of enjoyability prediction accuracy in a working environment.
+system was user tested over a period of ten days, during which feedback confirmed
+high levels of enjoyability prediction accuracy in a working environment.
 
 The full developmental process, including the initial background study, is documented
 and discussed throughout this project. All project objectives established were met and
