@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## HLTV Enjoyability Predictor Extension
 
-You can use the [editor on GitHub](https://github.com/OfficiallyLukeHemmings/officiallylukehemmings.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# GitHub Links:
+- [Chrome Extension](https://github.com/OfficiallyLukeHemmings/hltvPredictorExtension)
+- [(Google App Engine) API](https://github.com/OfficiallyLukeHemmings/hltv_predictor_api)
 
 ### Markdown
 
